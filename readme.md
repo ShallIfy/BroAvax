@@ -22,7 +22,7 @@ Bro Genie Bot is a feature-rich Telegram bot that generates personalized, artist
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShallIfy/BroAvax.git
-   cd bro-genie-bot
+   cd BroAvax
    ```
 
 2. Create and activate a virtual environment:
